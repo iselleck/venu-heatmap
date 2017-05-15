@@ -1,0 +1,10 @@
+html,
+body {
+    height: 100%;
+}
+
+#map_div {
+    width: 100%;
+    height: 100%;
+}
+
